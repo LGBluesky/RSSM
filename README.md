@@ -5,4 +5,4 @@
 GTree used Revised MIT LICENSE for academic research.
 
 ## Release
-New release packages are in https://github.com/RSSM/RSSM/releases. Old version packages are in https://github.com/GTreeSoftware/Release.
+New release packages are in https://github.com/LGBluesky/RSSM/releases
