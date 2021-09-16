@@ -1,6 +1,6 @@
 # RSSM
 ## Introduction
-    RSSM is a open source software for neuronal foreground estimation. RSSM is written in C++, and freely available for academic research using. 
+RSSM is a open source software for neuronal foreground estimation. RSSM is written in C++, and freely available for academic research using. 
 ##License
 GTree used Revised MIT LICENSE for academic research.
 
